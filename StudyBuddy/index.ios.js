@@ -16,10 +16,10 @@ class StudyBuddy extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          StudyBuddy
         </Text>
         <Text style={styles.instructions}>
-          To get started, edit index.ios.js
+          Login
         </Text>
         <Text style={styles.instructions}>
           Press Cmd+R to reload,{'\n'}
